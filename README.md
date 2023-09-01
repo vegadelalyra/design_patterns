@@ -1,4 +1,4 @@
-# design_patterns
+# Design Patterns
 Learn with me about Design Patterns on Object Oriented Programming with static typed languages!
 
 ## Content grabbed from refactoring.guu
