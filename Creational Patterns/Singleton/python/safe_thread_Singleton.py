@@ -32,7 +32,7 @@ def test_singleton(value: str) -> None:
 if __name__ == '__main__':
     print('If you see the same value')
     print('then singleton was reused (yay!)')
-    print('If you see diferent values, ')
+    print('If you see different values, ')
     print('then 2 singletons were created (boo!!)')
     print('RESULT:')
 
