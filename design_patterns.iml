@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Behavioral Patterns/Observer/Java/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Creational Patterns/Abstract Factory/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Creational Patterns/Builder/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Creational Patterns/Factory/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Creational Patterns/Prototype/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Creational Patterns/Singleton/java" isTestSource="false" />
