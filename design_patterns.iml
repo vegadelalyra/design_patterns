@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Structural Patterns/Adapter/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Structural Patterns/Decorator/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Structural Patterns/Facade/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structural Patterns/Proxy/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
